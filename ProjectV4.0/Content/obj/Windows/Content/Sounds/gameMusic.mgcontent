@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>G:/YandexDisc/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Sounds/gameMusic.mp3</SourceFile>
+  <SourceTime>2018-12-14T19:06:30.6846688+05:00</SourceTime>
+  <DestFile>G:/YandexDisc/ToRecieve/ProjectV4.0/ProjectV4.0/Content/bin/Windows/Content/Sounds/gameMusic.xnb</DestFile>
+  <DestTime>2019-02-25T21:13:39.8842692+05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-09-24T02:55:52+05:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-09-24T02:55:52+05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/YandexDisc/ToRecieve/ProjectV4.0/ProjectV4.0/Content/bin/Windows/Content/Sounds/gameMusic.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

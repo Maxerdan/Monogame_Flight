@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/bgLayer1.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/bgLayer2.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/bullet.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/enemyAnimation.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/explosion.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/greenHealth.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/mainbackground.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/Score.spritefont</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Graphics/shipAnimation.png</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Sounds/bulletFire.wav</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Sounds/explosion.wav</File>
+    <File>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Sounds/gameMusic.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>

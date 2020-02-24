@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/Sounds/bulletFire.wav</SourceFile>
+  <SourceTime>2019-02-28T11:23:41.0617349+05:00</SourceTime>
+  <DestFile>D:/YandexDisk/ToRecieve/ProjectV4.0/ProjectV4.0/Content/bin/Windows/Sounds/bulletFire.xnb</DestFile>
+  <DestTime>2020-02-24T13:45:51.0298445+05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-03-01T20:05:36+05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T20:05:36+05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
